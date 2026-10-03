@@ -103,7 +103,7 @@ Responsive product landing page with modern design principles
 **Bachelor of Technology in Computer Science & Engineering**  
 *Specialization: Artificial Intelligence & Machine Learning*
 
-**Bachelor of Technology in Mechanical Engineering**  
+**Diploma in Mechanical Engineering**  
 *Foundation: Engineering Principles & Problem Solving*
 
 ---
